@@ -1,0 +1,21 @@
+.placeholder-container {
+  min-height: calc(100vh - 68px);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  color: white;
+  background-color: #111827;
+}
+
+.placeholder-container h1 {
+  font-size: 3rem;
+  font-weight: 700;
+  margin-bottom: 1rem;
+}
+
+.placeholder-container p {
+  font-size: 1.25rem;
+  color: #9ca3af;
+}
