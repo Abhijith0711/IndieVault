@@ -1,5 +1,5 @@
 import React from 'react';
-import './PlaceholderPage.css';
+import '../styles/PlaceholderPage.css';
 
 const CartPage = () => {
   return (

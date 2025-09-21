@@ -1,7 +1,7 @@
 import React from 'react';
 import { featuredGames } from '../data/games';
 import GameCard from './GameCard';
-import './HomePage.css';
+import '../styles/HomePage.css';
 
 const HomePage = () => {
   return (

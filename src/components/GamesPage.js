@@ -1,7 +1,7 @@
 import React from 'react';
 import { featuredGames } from '../data/games';
 import GameCard from './GameCard'; // Import our new reusable component
-import './GamesPage.css';
+import '../styles/GamesPage.css';
 
 const GamesPage = () => {
   return (

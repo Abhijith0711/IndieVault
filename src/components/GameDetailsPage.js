@@ -1,7 +1,7 @@
 import React from 'react';
 import { useParams, Link } from 'react-router-dom';
 import { featuredGames } from '../data/games';
-import './GameDetailsPage.css';
+import '../styles/GameDetailsPage.css';
 
 const GameDetailsPage = () => {
   const { id } = useParams();

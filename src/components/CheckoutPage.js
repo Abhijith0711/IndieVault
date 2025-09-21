@@ -1,6 +1,6 @@
 import React from 'react';
 import { useLocation, Link } from 'react-router-dom';
-import './PlaceholderPage.css';
+import '../styles/PlaceholderPage.css';
 
 const CheckoutPage = () => {
   const location = useLocation();
